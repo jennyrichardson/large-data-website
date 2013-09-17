@@ -1,6 +1,6 @@
 ---
 Title: Why Are Bats Important?
-Source: [Bats Conservation Trust](http://www.bats.org.uk/pages/why_bats_matter.html#Pollinators)
+Source: http://www.bats.org.uk/pages/why_bats_matter.html#Pollinators
 
 ---
 
