@@ -1,6 +1,6 @@
 ---
 Title: What is a Bat?
-Source: [From Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Bat)
+Source: http://en.wikipedia.org/wiki/Bat
 
 ---
 
