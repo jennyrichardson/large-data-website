@@ -1,15 +1,15 @@
-<p># http: //robotstxt.org</p>
-<p># Show search engine where to find our site map<br>
-Sitemap: http://batsociety.com/sitemap.xml</p>
-<p>User-Agent: *</p>
-<p># Block images from showing in search  results<br>
-	# Disallow: /img</p>
-# http://robotstxt.org
+http: //robotstxt.org
+Show search engine where to find our site map
+Sitemap: http://batsociety.com/sitemap.xml
+User-Agent: *
+Block images from showing in search  results
+Disallow: /img
+http://robotstxt.org
 
-# Show search engine where to find our site map
+Show search engine where to find our site map
 Sitemap: http://batsociety.com/sitemap.xml
 
 User-Agent: *
 
-# Block images from showing in search  results
-# Disallow:/img
+Block images from showing in search  results
+Disallow:/img
