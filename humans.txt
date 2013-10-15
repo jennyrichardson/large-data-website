@@ -1,0 +1,13 @@
+	humanstxt.org
+	TEAM
+	Designer & Developer: Jenny Richardson
+	Site: http://batsociety.com
+	GitHub: https://github.com/jennyrichardson
+	Location: Ottawa, Canada
+	TECHNOLOGY
+	Software
+	- Git + GitHub
+	- Jekyll
+	- Markdown
+
+
