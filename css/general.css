@@ -130,6 +130,10 @@ nav ul ul ul {
 	padding: 10px 10px 10px 10px;
 }
 
+.hp-image {
+	width: 100%;
+}
+
 .grid {
 	overflow: hidden;
 }
@@ -157,6 +161,11 @@ a	{
 	.unit-s-1-2 {
 		float: none;
 		width: 100%;
+	}
+	
+	.unit-l-1 {
+		float:right;
+		font-size:2em;
 	}
 	
 	nav ul {
