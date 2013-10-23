@@ -32,16 +32,20 @@ h1 {
 h2 {
 	padding: 0px 0px 0px 10px;
 	font-weight:400;
-	color: #91500F;
+	color: #383026;
 }
 
 h3 {
 	color: #CE7F20;
 }
 
-.d-t-o-b {
-	text-align: center;
-	padding: 40px;
+.header-border {
+	clear:both;
+	background:#C6BDAC;
+	border-top:4px solid #383026;
+	margin:0;
+	padding:6px 15px;
+	text-align:left;
 }
 
 p {
@@ -136,6 +140,7 @@ nav ul ul ul {
 }
 
 .unit-spacer {
+	width: 800px;
 	padding: 1em;
 }
 
@@ -144,8 +149,12 @@ a	{
 }
 
 @media only screen and (max-width: 38em) {
+	
+	.unit-spacer {
+		width: 350px;
+	}
 
-	.unit-s-1 {
+	.unit-s-1-2 {
 		float: none;
 		width: 100%;
 	}
@@ -172,6 +181,10 @@ a	{
 
 @media only screen and (min-width: 38em) and (max-width: 60em) {
 
+	.unit-spacer {
+		width: 600px;
+	}
+	
 	.unit-m-1 {
 		float: none;
 		width: 100%;
@@ -189,3 +202,14 @@ a	{
 	}
 }
 
+#footer {
+	clear:both;
+	float:left;
+	width:100%;
+	border-top:1px solid #000;
+}
+
+#footer p {
+	padding:10px;
+	margin:0;
+}
