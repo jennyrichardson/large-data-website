@@ -52,10 +52,6 @@ p {
 	padding: 0px 0px 0px 10px;
 }
 
-nav ul ul {
-	display: none;
-}
-
 nav ul li:hover > ul {
 	display: block;
 }
@@ -95,42 +91,19 @@ nav ul li a {
 	text-decoration: none;
 }
 	
-nav ul ul {
-	background: #383026; 
-	border-radius: 0px; 
-	padding: 0;
-	position: absolute; 
-	top: 100%;
-}
-
-nav ul ul li {
-	float: none; 
-	position: relative;
-}
-
-nav ul ul li a {
-	padding: 10px 30px;
-	color: #fff;
-}	
-
-nav ul ul li a:hover {
-	background: #D3CABE;
-				
-}
-
 nav ul ul ul {
 	position: absolute; 
 	left: 100%; 
 	top:0;
 }
-
 .flex-img {
 	display: block;
+	padding: 0px 0px 15px 0px;
 	width: 100%;
-	padding: 10px 10px 10px 10px;
 }
 
 .grid {
+	border: 1px;
 	overflow: hidden;
 }
 
@@ -139,8 +112,11 @@ nav ul ul ul {
 	width: 33.33333%;
 }
 
+.unit-2-3 {
+	width: 66.66667%;
+}
+
 .unit-spacer {
-	width: 800px;
 	padding: 1em;
 }
 
