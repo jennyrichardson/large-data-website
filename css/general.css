@@ -5,18 +5,29 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
+	background-color: #F9F9F4;
 	font: Georgia, "Times New Roman", Times, serif;
 }
 
 @media only screen and (min-width: 187em) {
 
 	html {
+		background-color: #F9F9F4;
 		font-size: 1.5em;
 	 }
 }
 
 body {
+	margin: 0 auto;
+	max-width: 700px;
 	background-color: #F9F9F4;
+}
+
+@media only screen and (min-width: 240px) {
+	
+	body {
+		max-width: none;
+	}
 }
 
 .logo {
